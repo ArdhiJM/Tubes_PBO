@@ -38,7 +38,7 @@ public class KoperasiController implements ActionListener {
         }
     }
 
-    // --- BAGIAN YANG DIPERBAIKI ---
+    // Bagian Proses Tambah Anggota, Setor Simpanan, Tarik Simpanan, Ajukan Pinjaman, dan Bayar Cicilan
     private void prosesTambahAnggota() {
         String id = view.getTxtId().getText().trim();
         String nama = view.getTxtNama().getText().trim();
