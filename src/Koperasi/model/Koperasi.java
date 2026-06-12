@@ -25,7 +25,7 @@ public class Koperasi {
         return null; // Anggota tidak ditemukan
     }
 
-    // Getter untuk mengambil semua daftar anggota (untuk ditampilkan di JTable nanti)
+    // Getter untuk mengambil semua daftar anggota 
     public ArrayList<Anggota> getDaftarAnggota() {
         return daftarAnggota;
     }
