@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class KoperasiForm extends JFrame {
-    // 1. Komponen Input (JTextField)
+    // 1. Komponen Input (JTextField).
     private JTextField txtId;
     private JTextField txtNama;
     private JTextField txtJumlahUang;
